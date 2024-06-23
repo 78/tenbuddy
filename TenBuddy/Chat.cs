@@ -18,8 +18,8 @@ namespace TenBuddy
         public List<string> Messages;
         public Chat(string name)
         {
-            this.Name = name;
-            this.Messages = new List<string>();
+            Name = name;
+            Messages = new List<string>();
         }
     }
 }
